@@ -16,3 +16,4 @@ let halo = "Pasisveikinu per \n dvi eilutes"
 
 print(aloha)
 print(halo)
+print(aloha)
