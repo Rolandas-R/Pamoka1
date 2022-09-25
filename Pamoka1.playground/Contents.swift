@@ -17,3 +17,29 @@ let halo = "Pasisveikinu per \n dvi eilutes"
 print(aloha)
 print(halo)
 print(aloha)
+
+// ANTRA PAMOKA//
+/* ANtroje pamokoje kintamieji, komentarai ir funkcijos.
+ */
+
+var kintamasis: Int = 88
+let pasirinkimuSkaicius = 5
+
+print(kintamasis)
+print(pasirinkimuSkaicius)
+
+// var reiksme galima pakeist o let - ne
+
+kintamasis = 55 + pasirinkimuSkaicius
+
+print(kintamasis)
+
+// dar vienas kintamasis su pries tai buvusio kintamojo reiksme
+
+var naujasKintamasis: Int = kintamasis + pasirinkimuSkaicius
+
+print(naujasKintamasis)
+print(kintamasis + 150)
+print(pasirinkimuSkaicius - 1)
+print(naujasKintamasis * 2)
+
