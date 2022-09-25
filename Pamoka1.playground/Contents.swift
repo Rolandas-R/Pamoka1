@@ -3,8 +3,8 @@
 
 import UIKit
 
-// komentaras pries kintamaji
-// Kintamojo tipo nebutina rasyti, nes atpazista automatiskai
+/* komentaras pries kintamaji
+ Kintamojo tipo nebutina rasyti, nes atpazista automatiskai */
 
 var aloha: String = "Sveiki, cia pasisveikinimas"
 
