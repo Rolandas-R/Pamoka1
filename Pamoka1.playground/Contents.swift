@@ -43,3 +43,6 @@ print(kintamasis + 150)
 print(pasirinkimuSkaicius - 1)
 print(naujasKintamasis * 2)
 
+var skaiciuMasyvas = [1, 5, 8, 9]
+
+print(skaiciuMasyvas [2])
