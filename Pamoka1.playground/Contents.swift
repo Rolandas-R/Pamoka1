@@ -153,28 +153,51 @@
 
 // funkcija su argumenatais Int, patikrinanti ar skaicius b dalinasi is a be liekanos
 // grazina Bool tipa tiesa arba ne
+//
+//func skaiciai(a: Int, b: Int) -> Bool{
+//    if a % b == 0 {
+//        return true
+//    }
+//    else {
+//        return false
+//    }
+//}
+//// pateikiami argumentai ir aktyvuojama funkcija
+//// kintamasas paimantis funkcijos grazinama rezultata TRUE arba FALSE
+//
+//var liekanosTikrinimas: Bool = skaiciai(a:240, b:30)
+//
+//// patikrinama ar tiesa, kad skaicius dalinasi be liekanos ir pateikiamas rezultatas
+//
+//if liekanosTikrinimas == true {
+//    print(" Skaicius B dalinasi is A be liekanos")
+//}
+//else {
+//    print("skaicius B nesidalina is A be liekanos")
+//}
+//
 
-func skaiciai(a: Int, b:Int) -> Bool{
-    if a % b == 0 {
-        return true
-    }
-    else {
-        return false
-    }
-}
-// pateikiami argumentai ir aktyvuojama funkcija
-// kintamasas paimantis funkcijos grazinama rezultata TRUE arba FALSE
+// Variantas destytojo - perziureti video ir pakoreguoti nera print
 
-var liekanosTikrinimas: Bool = skaiciai(a:240, b:30)
+//func arD(a: Int, b: Int) -> Bool{
+//    if a % b == 0{
+//        return true
+//    } else {
+//        return false
+//    }
+//}
+//
+//func arT(dalmuo: Int, daliklis: Int) {
+//    if arD(a: dalmuo, b: daliklis) {
+//        print("\(dalmuo) dalinasi")
+//    } else {
+//        print("\(dalmuo) nesidalina")
+//    }
+//}
+//
+//arD(a: 32, b: 4)
 
-// patikrinama ar tiesa, kad skaicius dalinasi be liekanos ir pateikiamas rezultatas
 
-if liekanosTikrinimas == true {
-    print(" Skaicius B dalinasi is A be liekanos")
-}
-else {
-    print("skaicius B nesidalina is A be liekanos")
-}
-
+// 3 paskaita
 
 
