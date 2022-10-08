@@ -11,6 +11,9 @@
 		9216FE3228E8C3FF00F07A94 /* myTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9216FE3028E8C3FF00F07A94 /* myTableViewCell.swift */; };
 		9216FE3328E8C3FF00F07A94 /* myTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9216FE3128E8C3FF00F07A94 /* myTableViewCell.xib */; };
 		9216FE3728E8C69000F07A94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9216FE3628E8C69000F07A94 /* Main.storyboard */; };
+		921B387428EA05080011B371 /* inviteeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921B387328EA05080011B371 /* inviteeViewController.swift */; };
+		921B387828EA05970011B371 /* pakviestasTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921B387628EA05970011B371 /* pakviestasTableViewCell.swift */; };
+		921B387928EA05970011B371 /* pakviestasTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 921B387728EA05970011B371 /* pakviestasTableViewCell.xib */; };
 		9251AFAB28E5F6E4004B49AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9251AFAA28E5F6E4004B49AF /* AppDelegate.swift */; };
 		9251AFAD28E5F6E4004B49AF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9251AFAC28E5F6E4004B49AF /* SceneDelegate.swift */; };
 		9251AFAF28E5F6E4004B49AF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9251AFAE28E5F6E4004B49AF /* ViewController.swift */; };
@@ -20,6 +23,11 @@
 		9251AFC528E60B0A004B49AF /* KetvirtasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9251AFC428E60B0A004B49AF /* KetvirtasViewController.swift */; };
 		9251AFCD28E61DE7004B49AF /* PenktosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9251AFCC28E61DE7004B49AF /* PenktosViewController.swift */; };
 		9251AFD028E6229F004B49AF /* SestosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9251AFCF28E6229F004B49AF /* SestosViewController.swift */; };
+		92E368E528E96B3000129ABB /* zUzduotiesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E368E428E96B3000129ABB /* zUzduotiesViewController.swift */; };
+		92E368EB28E96B7900129ABB /* zAViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E368EA28E96B7900129ABB /* zAViewController.swift */; };
+		92E368EE28E96B8B00129ABB /* zBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E368ED28E96B8B00129ABB /* zBViewController.swift */; };
+		92E368F128E96BA000129ABB /* zCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E368F028E96BA000129ABB /* zCViewController.swift */; };
+		92E368FB28E9D95600129ABB /* loginasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E368FA28E9D95600129ABB /* loginasViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +35,9 @@
 		9216FE3028E8C3FF00F07A94 /* myTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myTableViewCell.swift; sourceTree = "<group>"; };
 		9216FE3128E8C3FF00F07A94 /* myTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = myTableViewCell.xib; sourceTree = "<group>"; };
 		9216FE3628E8C69000F07A94 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../.Trash/Main.storyboard; sourceTree = "<group>"; };
+		921B387328EA05080011B371 /* inviteeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inviteeViewController.swift; sourceTree = "<group>"; };
+		921B387628EA05970011B371 /* pakviestasTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pakviestasTableViewCell.swift; sourceTree = "<group>"; };
+		921B387728EA05970011B371 /* pakviestasTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = pakviestasTableViewCell.xib; sourceTree = "<group>"; };
 		9251AFA728E5F6E4004B49AF /* antrasavaite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = antrasavaite.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9251AFAA28E5F6E4004B49AF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9251AFAC28E5F6E4004B49AF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -38,6 +49,11 @@
 		9251AFC428E60B0A004B49AF /* KetvirtasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KetvirtasViewController.swift; sourceTree = "<group>"; };
 		9251AFCC28E61DE7004B49AF /* PenktosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PenktosViewController.swift; sourceTree = "<group>"; };
 		9251AFCF28E6229F004B49AF /* SestosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SestosViewController.swift; sourceTree = "<group>"; };
+		92E368E428E96B3000129ABB /* zUzduotiesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zUzduotiesViewController.swift; sourceTree = "<group>"; };
+		92E368EA28E96B7900129ABB /* zAViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zAViewController.swift; sourceTree = "<group>"; };
+		92E368ED28E96B8B00129ABB /* zBViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zBViewController.swift; sourceTree = "<group>"; };
+		92E368F028E96BA000129ABB /* zCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zCViewController.swift; sourceTree = "<group>"; };
+		92E368FA28E9D95600129ABB /* loginasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginasViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,14 +92,22 @@
 				9216FE3028E8C3FF00F07A94 /* myTableViewCell.swift */,
 				9216FE3128E8C3FF00F07A94 /* myTableViewCell.xib */,
 				9216FE3628E8C69000F07A94 /* Main.storyboard */,
+				92E368FA28E9D95600129ABB /* loginasViewController.swift */,
 				9251AFC028E5FE43004B49AF /* TreciasViewController.swift */,
-				9251AFB328E5F6E5004B49AF /* Assets.xcassets */,
 				9251AFB528E5F6E5004B49AF /* LaunchScreen.storyboard */,
 				9251AFB828E5F6E5004B49AF /* Info.plist */,
 				9251AFC428E60B0A004B49AF /* KetvirtasViewController.swift */,
 				9251AFCC28E61DE7004B49AF /* PenktosViewController.swift */,
 				9251AFCF28E6229F004B49AF /* SestosViewController.swift */,
 				9216FE2628E89EA600F07A94 /* DelegacijuViewController.swift */,
+				92E368E428E96B3000129ABB /* zUzduotiesViewController.swift */,
+				92E368EA28E96B7900129ABB /* zAViewController.swift */,
+				92E368ED28E96B8B00129ABB /* zBViewController.swift */,
+				92E368F028E96BA000129ABB /* zCViewController.swift */,
+				9251AFB328E5F6E5004B49AF /* Assets.xcassets */,
+				921B387328EA05080011B371 /* inviteeViewController.swift */,
+				921B387628EA05970011B371 /* pakviestasTableViewCell.swift */,
+				921B387728EA05970011B371 /* pakviestasTableViewCell.xib */,
 			);
 			path = antrasavaite;
 			sourceTree = "<group>";
@@ -149,6 +173,7 @@
 				9216FE3328E8C3FF00F07A94 /* myTableViewCell.xib in Resources */,
 				9251AFB428E5F6E5004B49AF /* Assets.xcassets in Resources */,
 				9216FE3728E8C69000F07A94 /* Main.storyboard in Resources */,
+				921B387928EA05970011B371 /* pakviestasTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -159,10 +184,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92E368EE28E96B8B00129ABB /* zBViewController.swift in Sources */,
 				9251AFC128E5FE43004B49AF /* TreciasViewController.swift in Sources */,
+				921B387428EA05080011B371 /* inviteeViewController.swift in Sources */,
+				92E368EB28E96B7900129ABB /* zAViewController.swift in Sources */,
 				9251AFAF28E5F6E4004B49AF /* ViewController.swift in Sources */,
+				92E368E528E96B3000129ABB /* zUzduotiesViewController.swift in Sources */,
+				921B387828EA05970011B371 /* pakviestasTableViewCell.swift in Sources */,
+				92E368F128E96BA000129ABB /* zCViewController.swift in Sources */,
 				9251AFD028E6229F004B49AF /* SestosViewController.swift in Sources */,
 				9251AFC528E60B0A004B49AF /* KetvirtasViewController.swift in Sources */,
+				92E368FB28E9D95600129ABB /* loginasViewController.swift in Sources */,
 				9251AFCD28E61DE7004B49AF /* PenktosViewController.swift in Sources */,
 				9216FE3228E8C3FF00F07A94 /* myTableViewCell.swift in Sources */,
 				9216FE2728E89EA600F07A94 /* DelegacijuViewController.swift in Sources */,

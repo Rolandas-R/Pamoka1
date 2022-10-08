@@ -51,6 +51,7 @@ class DelegacijuViewController: UIViewController, UITextFieldDelegate, UITableVi
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
            print("kuriama cele \(indexPath.row)")
+        
         let cell = tableView.dequeueReusableCell(withIdentifier: "zadintuvoCele", for: indexPath) as! myTableViewCell
         
 
